@@ -7,7 +7,7 @@
 
 ##
 ### 🏆 Achivements
-- 🌐 Receiving <b>Best Project</b> on my final exam with my <b>IMZN Hotel Reservation Website</b> that i build with <b>Python, Flask, MySQL</b>
+- 🌐 Attaining the <b>Best Project</b> in my final exam with my <b>IMZN Hotel Reservation Website</b> that i build with <b>Python, Flask, MySQL</b>
 - 🏅 Receiving a <b>certificate of appreciation</b> from the school and institution with the highest predicate <b>(very competent)</b> in completing the final competency exam tasks at school (Expired 2026)
 - 🏅 Achieving a <b>Gold Medal</b> in the <b>2022 National Informatics Competition for High School Students (SMA/MA/SMK level)</b> organized by the "Kompetisi Pelajar Nasional"
 - 📑 Attaining the <b>"Very Satisfied"</b> predicate during the Industrial Work Practice at a Software House by developing an <b>E-OFFICE using PHP, CodeIgniter 4, MySQL, Jquery, and AJAX.</b>
