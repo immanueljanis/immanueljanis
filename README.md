@@ -36,6 +36,4 @@ Fullstack Web Developer specializing in dynamic and scalable web applications us
 ---
 
 ## 🔥 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=immanueljanis&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immanueljanis&layout=compact&theme=radical)](https://github.com/immanueljanis)
+![immanueljanis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=immanueljanis&theme=tokyonight&hide_border=false)
